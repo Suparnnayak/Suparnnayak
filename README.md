@@ -18,7 +18,7 @@ Currently working on **Drone-based Computer Vision**, **Machine Learning project
 ## 👯 I’m looking to collaborate on
 - AI/ML projects in Computer Vision or NLP  
 - Open-source Python utilities  
-- Drone automation & robotics
+- Deep learning
 
 ## 🤔 I’m looking for help with
 - Optimizing ML models for real-time drone processing  
