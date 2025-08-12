@@ -38,7 +38,7 @@ Currently working on **Drone-based Computer Vision**, **Machine Learning project
 He/Him
 
 ## ⚡ Fun fact
-I build drones that can find people… but I still lose my TV remote. 😄
+My ML models can predict results with high accuracy… but they still can’t predict when my coffee will run out. ☕🤖
 
 ---
 
