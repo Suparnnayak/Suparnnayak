@@ -32,7 +32,7 @@ Currently working on **Drone-based Computer Vision**, **Machine Learning project
 ## 📫 How to reach me
 - LinkedIn: [linkedin.com/in/suparnnayak](https://www.linkedin.com/in/suparnnayak-69aa27297/)  
 - GitHub: [github.com/suparnnayak](https://github.com/suparnnayak)  
-- Email: **suparnnayak83@gmail.com**
+- Email: **suparnnayak56@gmail.com**
 
 ## 😄 Pronouns
 He/Him
