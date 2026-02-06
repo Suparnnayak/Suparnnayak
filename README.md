@@ -1,67 +1,66 @@
-# Hi, I'm Suparn Nayak 👋
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 Aspiring Machine Learning Engineer passionate about building **AI-powered solutions** for real-world problems.  
-Currently working on **Drone-based Computer Vision**, **Machine Learning projects**, and enhancing my skills in **Deep Learning, MLOps, and DSA**.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/suparn-nayak-69aa27297/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Suparnnayak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/suparn._.nayak/?hl=en" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="suparnnayak56@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-## 🔭 I’m currently working on
-- Drone Person Detection & GPS Mapping using YOLO + SORT  
-- KCET Admission Predictor using ML on historical cutoff data  
-- Movie Recommender System (Content-based filtering)
+###
 
-## 🌱 I’m currently learning
-- Deep Learning (CNNs, RNNs, Transformers)  
-- MLOps & Model Deployment  
-- Advanced DSA for interview preparation
+<h1 align="center">hey there 👋</h1>
 
-## 👯 I’m looking to collaborate on
-- AI/ML projects in Computer Vision or NLP  
-- Open-source Python utilities  
-- Deep learning
+###
 
-## 🤔 I’m looking for help with
-- Optimizing ML models for real-time drone processing  
-- Implementing large-scale MLOps pipelines
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 💬 Ask me about
-- Python, Machine Learning, and Computer Vision  
-- Data Structures & Algorithms  
-- Deploying ML models with Flask, Render, or Google Cloud
+###
 
-## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/suparnnayak](https://www.linkedin.com/in/suparnnayak-69aa27297/)  
-- GitHub: [github.com/suparnnayak](https://github.com/suparnnayak)  
-- Email: **suparnnayak56@gmail.com**
+<p align="left">I'm ... from ....<br>🔭 I’m working on Machine Learning and Computer Vision projects, with LLM and RAG systems<br><br>📚 I’m currently learning Deep Learning, MLOps, and Advanced Data Structures & Algorithms<br><br>⚡ In my free time, I build ML side projects, solve DSA problems, and explore real-world AI applications</p>
 
-## 😄 Pronouns
-He/Him
+###
 
-## ⚡ Fun fact
-My ML models can predict results with high accuracy… but they still can’t predict when my coffee will run out. ☕🤖
+<h3 align="left">🛠 Language and tools</h3>
 
----
+###
 
-## 🛠 Skills & Technologies
-- **Languages:** Python, SQL, Java  
-- **ML/DL Frameworks:** Scikit-learn, TensorFlow, PyTorch, OpenCV  
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Cloud, Render  
-- **Core CS:** Data Structures & Algorithms, DBMS, Operating Systems  
-- **Special Interests:** Computer Vision, NLP, Predictive Modeling, Drone Automation
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+</div>
 
----
+###
 
-## 📌 Featured Projects
-- [**Drone Person Detection & GPS Mapping**](#) – Person detection using YOLO, SORT tracking, and GPS coordinate mapping for drone surveillance.  
-- [**Movie Recommender System**](#) – Content-based filtering using TF-IDF & Cosine Similarity on TMDB dataset.  
-- [**KCET Admission Predictor**](#) – ML model predicting college admission chances based on past cut-off data.
+<h3 align="left">🔥   My Stats :</h3>
 
----
-
-## 📊 GitHub Stats
-![Suparn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suparnnayak&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suparnnayak&layout=compact&theme=tokyonight)
-
----
-
-💡 *“Code, Create, and Conquer — one project at a time.”*
+###
