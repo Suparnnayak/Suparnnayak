@@ -5,7 +5,7 @@
 ###
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Suparn%20Nayak&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems%20%7C%20Bengaluru%2C%20India&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Suparn%20Nayak&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SDE%20%7C%20Distributed%20Systems%20%7C%20AI%2FML%20%7C%20Bengaluru&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=820&lines=Building+real-world+AI+systems+🚀;RAG+%7C+LLMs+%7C+Computer+Vision+🧠;MLOps+%2B+Forecasting+%2B+Deployment+🔥;From+idea+to+production+🛠️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=820&lines=Building+scalable+systems+%F0%9F%9A%80;Distributed+Systems+%7C+Backend+Engineering+%7C+AI%2FML;Concurrency+%2B+Databases+%2B+Real-time+Systems;From+low-level+systems+to+AI+pipelines)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,25 +35,35 @@
 
 ```python
 class SuparnNayak:
-    name        = "SUPARN NAYAK"
+    role        = "Aspiring Software Development Engineer"
     location    = "Bengaluru, India"
-    education   = "B.E. Computer Science @ Sir M Visvesvaraya Institute of Technology (2023–2027)"
-    cgpa        = "8.1/10"
-    
-    focus       = ["RAG Systems", "LLMs", "Computer Vision", "Forecasting", "MLOps"]
+    education   = "B.E. Computer Science (2023–2027)"
+    cgpa        = "8.0/10"
+
+    interests   = [
+        "Distributed Systems",
+        "Backend Engineering",
+        "Database Systems",
+        "Computer Vision",
+        "RAG Systems"
+    ]
 
     currently_building = [
-        "Drone person detection + GPS mapping",
-        "RAG evaluation systems",
-        "End-to-end ML pipelines"
+        "High-performance backend systems",
+        "Drone-based computer vision pipelines",
+        "End-to-end ML systems"
     ]
 
-    highlights  = [
-        "250+ LeetCode problems",
+    strengths   = [
+        "Concurrency & Multithreading",
+        "System Design",
+        "Algorithmic Optimization"
+    ]
+
+    achievements = [
+        "500+ LeetCode problems",
         "Top 25/200 teams — CodeFury Hackathon"
     ]
-
-    contact     = ["suparnnayak56@gmail.com", "linkedin.com/in/suparn-nayak"]
 ```
 
 ---
@@ -62,52 +72,52 @@ class SuparnNayak:
 
 ### 👨‍💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/>
 </p>
 
-### 📊 Data Science
+### ⚙️ Systems & Backend
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POSIX%20Threads-555555?style=for-the-badge"/>
+</p>
+
+### 🧠 Core CS
+<p>
+  <img src="https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LSM%20Tree-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WAL-555555?style=for-the-badge"/>
 </p>
 
-### 🤖 Machine Learning / AI
+### ⚙️ Tools & Deployment
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge"/>
-</p>
-
-### 👁️ Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
-</p>
-
-### ⚙️ MLOps & Deployment
-<p>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge"/>
 </p>
 
-### 🌐 Web / Frameworks
+### 🤖 AI / ML
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 </p>
 
 ---
@@ -118,18 +128,18 @@ class SuparnNayak:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 IdeaLens AI (RAG System)
-- RAG-based hackathon idea evaluation system  
-- Embedding-based semantic retrieval  
-- LLM scoring with structured outputs  
+### 🌐 High-Concurrency Web Server
+- Built multithreaded HTTP server handling **10,000+ concurrent clients**
+- Implemented **epoll-based non-blocking I/O**
+- Eliminated race conditions using mutex + condition variables
 
 </td>
 <td width="50%" valign="top">
 
-### 🚁 SkyRescue Vision (Drone System)
-- Real-time detection + tracking  
-- Pixel-to-GPS mapping  
-- Built for rescue & surveillance  
+### 🗄️ LSM-Tree Database Engine
+- Custom key-value store with **WAL + MemTables + SSTables**
+- Implemented **Bloom filters → reduced read latency by 40%**
+- Designed for fault tolerance & crash recovery
 
 </td>
 </tr>
@@ -137,18 +147,18 @@ class SuparnNayak:
 <tr>
 <td width="50%" valign="top">
 
-### 🆘 AidLink
-- Disaster relief matching engine  
-- Priority scheduling + spatial indexing  
-- Optimized resource allocation  
+### 🧑‍💻 CoType (CRDT Editor)
+- Real-time collaborative editor with **WebSockets**
+- Built custom **Sequence CRDT (LSEQ)**
+- Compiled core logic to **WebAssembly**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 HealthFlow AI
-- Patient inflow forecasting system  
-- XGBoost-based pipeline  
-- Decision support for hospitals  
+### 🚁 Drone Vision System
+- Real-time detection + tracking
+- Pixel-to-GPS mapping
+- Designed for surveillance & rescue
 
 </td>
 </tr>
@@ -156,28 +166,22 @@ class SuparnNayak:
 
 ---
 
-## 🏅 Achievements & Leadership
+## 🏅 Achievements
 
-- ✅ Solved **250+ LeetCode problems**  
-- 🏆 **Top 25/200 teams — CodeFury Hackathon**  
-- 🤝 Active in tech communities & hackathons  
-- 👨‍🏫 Mentored peers in DSA  
+- ✅ Solved **500+ LeetCode problems**
+- 🏆 **Top 25/200 — CodeFury Hackathon**
+- 👨‍🏫 Mentored **50+ students in DSA**
+- 🧠 Strong foundation in **algorithms, concurrency & systems**
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suparnnayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suparnnayak&show_icons=true&theme=tokyonight&hide_border=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnnayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suparnnayak&theme=tokyonight&hide_border=true" width="70%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnnayak&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -186,15 +190,15 @@ class SuparnNayak:
 ## 🎯 Current Focus
 
 ```text
-🔭 Working on → RAG systems, drone vision, ML pipelines  
-🌱 Learning → LLM evaluation, MLOps, system design  
-👯 Open to → AI/ML internships & collaborations  
-⚡ Goal → Production-level ML engineer  
+🔭 Building → Distributed systems + backend + ML pipelines  
+🌱 Learning → System design, low-level optimization  
+👯 Open to → SDE internships  
+⚡ Goal → High-performance systems engineer
 ```
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
 <div align="center">
 
