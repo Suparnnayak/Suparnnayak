@@ -1,221 +1,97 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+# Suparn Nayak
 
-###
-<div align="center">
+Software Engineer focused on backend systems, distributed computing, and applied AI/ML.
+Bengaluru, India
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Suparn%20Nayak&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SDE%20%7C%20Distributed%20Systems%20%7C%20AI%2FML%20%7C%20Bengaluru&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Suparnnayak&label=Profile%20views&color=6C63FF&style=for-the-badge" />
-&nbsp;
-<a href="https://linkedin.com/in/suparn-nayak">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:suparnnayak56@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Suparnnayak">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=820&lines=Building+scalable+systems+%F0%9F%9A%80;Distributed+Systems+%7C+Backend+Engineering+%7C+AI%2FML;Concurrency+%2B+Databases+%2B+Real-time+Systems;From+low-level+systems+to+AI+pipelines)](https://git.io/typing-svg)
-
-</div>
+[LinkedIn](https://linkedin.com/in/suparn-nayak) · [GitHub](https://github.com/Suparnnayak) · [Email](mailto:suparnnayak56@gmail.com) · [Website](https://suparnnayak.xyz)
 
 ---
 
-## 🚀 About Me
+## About
 
-```python
-class SuparnNayak:
-    role        = "Aspiring Software Development Engineer"
-    location    = "Bengaluru, India"
-    education   = "B.E. Computer Science (2023–2027)"
-    cgpa        = "8.0/10"
-
-    interests   = [
-        "Distributed Systems",
-        "Backend Engineering",
-        "Database Systems",
-        "Computer Vision",
-        "RAG Systems"
-    ]
-
-    currently_building = [
-        "High-performance backend systems",
-        "Drone-based computer vision pipelines",
-        "End-to-end ML systems"
-    ]
-
-    strengths   = [
-        "Concurrency & Multithreading",
-        "System Design",
-        "Algorithmic Optimization"
-    ]
-
-    achievements = [
-        "500+ LeetCode problems",
-        "Top 25/200 teams — CodeFury Hackathon"
-    ]
-```
+Computer Science student (B.E., 2023–2027) with a strong foundation in data structures and algorithms, operating systems, computer networks, and database systems. Experienced in building high-performance concurrent backend systems, database engines, and end-to-end AI/ML pipelines. Currently working as a Technical Intern at Siemens Healthineers.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Experience
 
-### 👨‍💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/>
-</p>
+**Siemens Healthineers** — Technical Intern
+*Sep 2026 – Present · Bengaluru, India*
+- Contributing to a Django-based audit logging solution for the Digi X.Lab application to support compliance and security requirements.
+- Implementing backend functionality to capture sensitive user activities and workflow events with structured metadata, including User ID, Initiator Type, Tenant ID, Event Type, and Audit Source.
+- Developing input validation and failure-handling for audit event submission, ensuring invalid events are rejected and failures are logged for traceability.
 
-### ⚙️ Systems & Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POSIX%20Threads-555555?style=for-the-badge"/>
-</p>
-
-### 🧠 Core CS
-<p>
-  <img src="https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LSM%20Tree-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WAL-555555?style=for-the-badge"/>
-</p>
-
-### ⚙️ Tools & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge"/>
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-</p>
+**Ornitech** — Backend Developer Intern
+*Jul 2026 – Aug 2026 · Remote*
+- Developed scalable backend services for an AI-powered 3D website generation platform using Node.js, Express.js, MongoDB, Redis, and BullMQ.
+- Designed secure REST APIs and asynchronous job-processing pipelines with JWT authentication and Redis-based task queues.
 
 ---
 
-## 🏆 Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**AetherWeb — High-Concurrency Thread-Pool Web Server**
+[github.com/Suparnnayak/Web_server](https://github.com/Suparnnayak/Web_server)
+- Engineered a multithreaded HTTP/HTTPS server over TCP/IP using Winsock2, with a non-blocking `select()` event loop and a custom thread pool.
+- Enforced secure socket lifecycle management and connection queue draining to eliminate I/O bottlenecks.
+- Achieved 3,350+ requests/second throughput with a 0.00% error rate and p99 latency of 84 ms under 200 concurrent connections.
 
-### 🌐 High-Concurrency Web Server
-- Built multithreaded HTTP server handling **10,000+ concurrent clients**
-- Implemented **epoll-based non-blocking I/O**
-- Eliminated race conditions using mutex + condition variables
+**AegisDB — Embedded LSM-Tree Key-Value Database**
+[github.com/Suparnnayak/database_engine](https://github.com/Suparnnayak/database_engine-)
+- Built a fault-tolerant embedded database engine using Log-Structured Merge (LSM) trees, achieving 88,397 write ops/sec at 11.31 µs/op average latency.
+- Ensured durability and crash recovery using Write-Ahead Logging (WAL).
+- Integrated MemTables, disk-based SSTables, and Bloom filters, bypassing 345,000+ disk seeks and completing multi-file compactions in under 285 ms.
 
-</td>
-<td width="50%" valign="top">
+**HealthFlow AI — Full-Stack Predictive Platform**
+[github.com/Suparnnayak/HealthFlow-AI](https://github.com/Suparnnayak/HealthFlow-AI)
+- Built a full-stack healthcare platform for 7-day hospital admission forecasting, with a React dashboard for clinical data visualization.
+- Engineered a database-first forecasting pipeline that removed runtime model inference from REST API handlers, improving scalability and response latency.
+- Integrated an AI-powered advisory engine generating staffing recommendations and patient-risk insights from forecast data.
 
-### 🗄️ LSM-Tree Database Engine
-- Custom key-value store with **WAL + MemTables + SSTables**
-- Implemented **Bloom filters → reduced read latency by 40%**
-- Designed for fault tolerance & crash recovery
+**IdeaLens AI — RAG-Based Screening Engine**
+[github.com/Suparnnayak/HN_Screening](https://github.com/Suparnnayak/HN_Screening-)
+- Built a scalable Python pipeline automating document screening using Retrieval-Augmented Generation (RAG) with template-aware chunking.
+- Leveraged 384-dimensional embeddings and ChromaDB for evidence-grounded scoring.
+- Integrated validation logic enforcing strict JSON outputs against a 100-point rubric.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 CoType (CRDT Editor)
-- Real-time collaborative editor with **WebSockets**
-- Built custom **Sequence CRDT (LSEQ)**
-- Compiled core logic to **WebAssembly**
-
-</td>
-<td width="50%" valign="top">
-
-### 🚁 Drone Vision System
-- Real-time detection + tracking
-- Pixel-to-GPS mapping
-- Designed for surveillance & rescue
-
-</td>
-</tr>
-</table>
+**CoType — Distributed Collaborative Editor**
+[github.com/Suparnnayak/CRDT-editor](https://github.com/Suparnnayak/CRDT-editor)
+- Designed a low-latency distributed synchronization system using WebSockets for real-time collaborative text editing.
+- Ensured eventual consistency using a C++ Sequence CRDT with LSEQ indexing, resolving conflicts without a central database.
+- Benchmarked at 49,992 inserts/sec (sequential), 38,446 inserts/sec (random), and 103,530 deletes/sec; compiled core structures to WebAssembly for near-native performance.
 
 ---
 
-## 🏅 Achievements
+## Technical Skills
 
-- ✅ Solved **500+ LeetCode problems**
-- 🏆 **Top 25/200 — CodeFury Hackathon**
-- 👨‍🏫 Mentored **50+ students in DSA**
-- 🧠 Strong foundation in **algorithms, concurrency & systems**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suparnnayak&show_icons=true&theme=tokyonight&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suparnnayak&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+**Languages:** C++, Python, Java, JavaScript, TypeScript
+**Frontend:** React.js, HTML5, CSS3
+**Backend:** Node.js, Express.js, Flask, REST APIs, WebSockets
+**AI/ML:** Deep Learning, NLP, Computer Vision, RAG, Pandas, NumPy
+**Databases:** MySQL, MongoDB, ChromaDB
+**Core CS:** Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, OOP
+**Tools & Infrastructure:** Docker, Kubernetes, Git, GitHub
 
 ---
 
-## 🎯 Current Focus
+## Achievements
 
-```text
-🔭 Building → Distributed systems + backend + ML pipelines  
-🌱 Learning → System design, low-level optimization  
-👯 Open to → SDE internships  
-⚡ Goal → High-performance systems engineer
-```
+- Solved 500+ problems on LeetCode
+- Placed in the Top 25 out of 200 teams at the CodeFury Hackathon
+- Mentored 50+ students in Data Structures and Algorithms
+- Secretary, TechHub — led technical operations and infrastructure for Hack-Nocturne 2.0, a national-level hackathon
 
 ---
 
-## 🤝 Connect
+## Education
 
-<div align="center">
+**Sir M Visvesvaraya Institute of Technology**, Bengaluru, India
+Bachelor of Engineering in Computer Science · CGPA: 8.0/10 · Expected Graduation: 2027
 
-<a href="https://linkedin.com/in/suparn-nayak">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="mailto:suparnnayak56@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://github.com/Suparnnayak">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
-</a>
+---
 
-<br/><br/>
+## Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+- Email: [suparnnayak56@gmail.com](mailto:suparnnayak56@gmail.com)
+- LinkedIn: [linkedin.com/in/suparn-nayak](https://linkedin.com/in/suparn-nayak)
+- Website: [suparnnayak.xyz](https://suparnnayak.xyz)
